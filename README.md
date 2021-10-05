@@ -1,4 +1,5 @@
-##GITAM is  best university
+# GITAM is  best university
+
 ![image](https://user-images.githubusercontent.com/89067974/136032228-4aa4c1c5-aa9d-4fe8-bf9e-3442003d0db1.png)
 
 A + grade by NAAC Top #42 school in india Member of AMDISA 50 + recruiting companies 99% of students placed Gandhi Institute of Technology and Management (GITAM), Hyderabad is one of the best Private Engineering University established in 2009.
