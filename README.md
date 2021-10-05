@@ -1,4 +1,4 @@
-# GITAM is best University
+# GITAM Is Best University
 
 ![image](https://user-images.githubusercontent.com/89067974/136032228-4aa4c1c5-aa9d-4fe8-bf9e-3442003d0db1.png)
 
